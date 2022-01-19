@@ -24,7 +24,7 @@
     "mongoose": "^5.9.13",
     "common-tags": "^1.8.0",
     "node-fetch": "^2.6.0",
-    "google-tts-api": "^0.0.4"
+    "google-tts-api": "^0.0.5"
   },
   "engines": {
     "node": "12.x"
